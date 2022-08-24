@@ -1,2 +1,5 @@
 # enterprise-must-reads
 Summary of books I have personal read and recommend for enterprises in Identity, Data Privacy, Cyber Security and Authentication domains.
+|Book|Author|Summary|
+|---|---|---------|
+|[Data Privacy: What Enterprises Need to Know?](https://www.amazon.com/Data-Privacy-What-Enterprises-Need-ebook/dp/B0B5XPD468)| [Deepak Gupta](https://guptadeepak.com/) | Enterprise leaders will get in-depth insights and much-needed perspectives on managing data security and privacy. The chapters are as follows: <ul><li>**Chapter I** examines the evolutions of the data economy and how it's affecting business operations, growth, and sustainabilit</li> <li>**Chapter II** explains the importance of data privacy and why enterprises need to rethink their approach to data management</li><li>**Chapter III** discusses how enterprises can effectively tackle compliance challenges with emerging data regulations</li> <li>**Chapter IV** helps enterprise leaders understand the future of enterprises dealing with more and more data |
