@@ -1,5 +1,5 @@
-# digital-identity-enterprise-must-reads
-Summary of books I/you have personal read and recommend for enterprises in Digital Identity domain.
+# Digital Identity - Enterprise Must Reads
+Summary of Digital Identity books I/you have read and recommend for enterprises.
 
 * [Data Privacy: What Enterprises Need to Know? - Deepak Gupta and Raghunath Reddy](https://www.amazon.com/Data-Privacy-What-Enterprises-Need-ebook/dp/B0B5XPD468): Enterprise leaders will get in-depth insights and much-needed perspectives on managing data security and privacy. The chapters examines the evolutions of the data economy and how it's affecting business operations, growth, and sustainability, explains the importance of data privacy and why enterprises need to rethink their approach to data management, discusses how enterprises can effectively tackle compliance challenges with emerging data regulations and helps enterprise leaders understand the future of enterprises dealing with more and more data
 * [Self-Sovereign Identity - Alex Preukschat and Drummond Reed](https://www.manning.com/books/self-sovereign-identity): You’ll learn how SSI empowers us to receive digitally-signed credentials, store them in private wallets, and securely prove our online identities. It combines a clear, jargon-free introduction to this blockchain-inspired paradigm shift with interesting essays written by its leading practitioners. Whether for property transfer, ebanking, frictionless travel, or personalized services, the SSI model for digital trust will reshape our collective future.
